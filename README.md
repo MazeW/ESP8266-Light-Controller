@@ -21,4 +21,6 @@ This project was made using [PlatformIO](https://platformio.org/install/integrat
  ![image](/tools/wiring.png)
 
 ## Extra
-in tools folder there's a script called `minify.sh`, you can use that to automatically generate index.h file from index.html
+An tools folder there's a script called `minify.sh`, you can use that to automatically generate index.h file from index.html
+
+Also, as there's no security you should never expose this to public, unless you want someone to turn your shit on and off constantly.
